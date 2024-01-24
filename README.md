@@ -16,7 +16,7 @@ The project is structured into five phases:
 
 5. **Visualization:** Plotly was employed for data visualization to provide clear and interactive representations of the analyzed data.
 
-## Installation
+# Installation
 
 ### Prerequisites
 
