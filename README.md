@@ -84,6 +84,3 @@ import plotly.express as px
 
 Contributions to this project are welcome. Feel free to open an issue or submit a pull request for improvements or bug fixes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
