@@ -1,4 +1,4 @@
-# IMDB Data Analysis Project
+# IMDB Data Analysis Project:
 
 This project involves the analysis and visualization of IMDB data, including sentiment analysis and trends over the decades. The project is divided into multiple phases, encompassing data scraping, cleaning, analysis, natural language processing (NLP), and visualization using Plotly.
 
